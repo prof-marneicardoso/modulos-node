@@ -1,4 +1,4 @@
-# Móduloes em Node.js
+# Módulos em Node.js
 
 Exemplo de uso de módulos:
 - Internos: OS, Path e Crypto
