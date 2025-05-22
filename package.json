@@ -1,0 +1,22 @@
+{
+  "name": "modulos",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "os": "nodemon operation-system.js",
+    "path": "nodemon path.js",
+    "dev": "node app.js",
+    "cripto": "nodemon criptografia.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^6.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
